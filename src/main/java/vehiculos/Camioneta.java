@@ -1,6 +1,6 @@
 package vehiculos;
 
-public class Camioneta extends vehiculo {
+public class Camioneta extends Vehiculo {
 	
 	private boolean volco;
 	
